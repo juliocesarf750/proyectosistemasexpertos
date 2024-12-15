@@ -1,0 +1,11 @@
+instalar node modules
+npm install
+
+correr programa
+npm run dev
+
+ir al navegador
+http://localhost:5173
+
+programa en la nube
+https://proyectosistemasexpertos.netlify.app
