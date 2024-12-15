@@ -1,3 +1,6 @@
+abrir terminal en visual code ir a la carpeta
+cd proyectosistemasexpertos-main
+
 instalar node modules
 npm install
 
